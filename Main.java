@@ -22,7 +22,7 @@ public class Main {
         System.out.print("Enter your library ID: ");
         int userId = scanner.nextInt();
 
-       if(userName.equals("Abdulaziz Arabov") && userId == 2006){
+       if(userName.equals("Abdulaziz Arabov") && userId == 2000){
            System.out.print("Accessed successfully. Have a good reading " + userName + "\n");
            // We will run the program unless the user uses it.
            while(running){
